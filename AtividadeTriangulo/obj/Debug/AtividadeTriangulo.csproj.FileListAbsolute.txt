@@ -1,0 +1,11 @@
+C:\Users\gustavo.hsevani\source\repos\AtividadeTriangulo\AtividadeTriangulo\bin\Debug\AtividadeTriangulo.exe.config
+C:\Users\gustavo.hsevani\source\repos\AtividadeTriangulo\AtividadeTriangulo\bin\Debug\AtividadeTriangulo.exe
+C:\Users\gustavo.hsevani\source\repos\AtividadeTriangulo\AtividadeTriangulo\bin\Debug\AtividadeTriangulo.pdb
+C:\Users\gustavo.hsevani\source\repos\AtividadeTriangulo\AtividadeTriangulo\obj\Debug\AtividadeTriangulo.csproj.AssemblyReference.cache
+C:\Users\gustavo.hsevani\source\repos\AtividadeTriangulo\AtividadeTriangulo\obj\Debug\AtividadeTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.hsevani\source\repos\AtividadeTriangulo\AtividadeTriangulo\obj\Debug\AtividadeTriangulo.Form1.resources
+C:\Users\gustavo.hsevani\source\repos\AtividadeTriangulo\AtividadeTriangulo\obj\Debug\AtividadeTriangulo.Properties.Resources.resources
+C:\Users\gustavo.hsevani\source\repos\AtividadeTriangulo\AtividadeTriangulo\obj\Debug\AtividadeTriangulo.csproj.GenerateResource.cache
+C:\Users\gustavo.hsevani\source\repos\AtividadeTriangulo\AtividadeTriangulo\obj\Debug\AtividadeTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.hsevani\source\repos\AtividadeTriangulo\AtividadeTriangulo\obj\Debug\AtividadeTriangulo.exe
+C:\Users\gustavo.hsevani\source\repos\AtividadeTriangulo\AtividadeTriangulo\obj\Debug\AtividadeTriangulo.pdb
